@@ -1,15 +1,13 @@
-# EscapeRoom196
+# VR EscapeRoom196
+## Project Overview
+As part of a group project for CS 196 I created an escape room game. This escape room project was an opportunity to explore the possibilities in Virtual Reality through the Unity3D engine. We created a pirate ship themed escape room, integrating it into VR. The game can be used with an HTC Vive headset. 
+
 ## Contributors
-* Yuming Li
 * Alexandre Geubelle
+* Yuming Li
 * David Terpay
 * Pranith Bottu
 * PM: Hana Rimawi
-
-
-## Project Overview
-Our CS 196 escape room project was an opportunity to explore the possibilities in Virtual Reality through the Unity3D engine. We created a pirate ship themed escape room, integrating it into VR. The game can be used with an HTC Vive headset. 
-
 
 ## Current Project Status
 We currently have a fully built scene for the player to escape from. There is movement using HTC Vive controllers and interaction with certain objects. These interactions include the ability to pick up objects and sound effects triggered when the player runs into items in the game.
